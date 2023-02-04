@@ -1,12 +1,2 @@
-- 👋 Hi, I’m @JADcooler
-i have no idea wat im doing
-plz help
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-JADcooler/JADcooler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+If you have an idea that is genuinely good, don't let some idiot talk you out of it
+- Stan Lee
